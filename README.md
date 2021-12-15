@@ -10,3 +10,7 @@ I based my architecture on:
 - ui-kitten 5 as a library components 
 - react-native-deck-swiper f
 - react-native-image-slider-box 
+- 
+
+https://user-images.githubusercontent.com/11463617/146179516-7ecb2f3c-e580-46f3-a89a-3a09ca141571.mp4
+
