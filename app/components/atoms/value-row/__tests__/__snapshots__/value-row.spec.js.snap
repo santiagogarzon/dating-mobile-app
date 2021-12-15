@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    appearance="default"
+    level="1"
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#FFFFFF",
+        },
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Text
+      appearance="default"
+      category="s1"
+      style={
+        Array [
+          Object {
+            "color": "#222B45",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "fontWeight": "600",
+          },
+          undefined,
+        ]
+      }
+    />
+  </View>
+  <View
+    appearance="default"
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#EDF1F7",
+          "height": 1,
+        },
+        undefined,
+      ]
+    }
+  />
+</View>
+`;

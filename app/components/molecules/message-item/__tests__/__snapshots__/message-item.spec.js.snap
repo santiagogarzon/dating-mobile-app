@@ -1,0 +1,574 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    nativeID="animatedComponent"
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexDirection": "row",
+        "opacity": 1,
+        "paddingHorizontal": 8,
+        "paddingVertical": 12,
+      }
+    }
+  >
+    <Image
+      appearance="default"
+      shape="round"
+      size="medium"
+      source={
+        Object {
+          "testUri": "../../../app/assets/image-profile-1.jpg",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "borderRadius": 20,
+            "height": 40,
+            "marginRight": 10,
+            "width": 40,
+          },
+        ]
+      }
+    />
+    <View
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    >
+      <Text
+        appearance="default"
+        category="p1"
+        style={
+          Array [
+            Object {
+              "color": "#222B45",
+              "fontFamily": "System",
+              "fontSize": 15,
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#222B45",
+                "fontFamily": "System",
+                "fontSize": 13,
+                "fontWeight": "600",
+                "marginHorizontal": 8,
+              },
+              Object {
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        Dushane Daniel
+      </Text>
+      <Text
+        appearance="default"
+        category="p1"
+        style={
+          Array [
+            Object {
+              "color": "#222B45",
+              "fontFamily": "System",
+              "fontSize": 15,
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#8F9BB3",
+                "fontFamily": "System",
+                "fontSize": 12,
+                "fontWeight": "400",
+                "marginHorizontal": 8,
+              },
+              Object {
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        Hey! How are you?
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <Text
+        appearance="hint"
+        category="c1"
+        style={
+          Array [
+            Object {
+              "color": "#8F9BB3",
+              "fontFamily": "System",
+              "fontSize": 12,
+              "fontWeight": "400",
+            },
+            Object {
+              "minWidth": 64,
+              "textAlign": "right",
+            },
+          ]
+        }
+      >
+        4:30 PM
+      </Text>
+    </View>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    nativeID="animatedComponent"
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexDirection": "row",
+        "opacity": 1,
+        "paddingHorizontal": 8,
+        "paddingVertical": 12,
+      }
+    }
+  >
+    <Image
+      appearance="default"
+      shape="round"
+      size="medium"
+      source={
+        Object {
+          "testUri": "../../../app/assets/image-profile-2.jpg",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "borderRadius": 20,
+            "height": 40,
+            "marginRight": 10,
+            "width": 40,
+          },
+        ]
+      }
+    />
+    <View
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    >
+      <Text
+        appearance="default"
+        category="p1"
+        style={
+          Array [
+            Object {
+              "color": "#222B45",
+              "fontFamily": "System",
+              "fontSize": 15,
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#222B45",
+                "fontFamily": "System",
+                "fontSize": 13,
+                "fontWeight": "600",
+                "marginHorizontal": 8,
+              },
+              Object {
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        Shirai Subaru
+      </Text>
+      <Text
+        appearance="default"
+        category="p1"
+        style={
+          Array [
+            Object {
+              "color": "#222B45",
+              "fontFamily": "System",
+              "fontSize": 15,
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#8F9BB3",
+                "fontFamily": "System",
+                "fontSize": 12,
+                "fontWeight": "400",
+                "marginHorizontal": 8,
+              },
+              Object {
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        No problem! It's fine
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        collapsable={false}
+        nativeID="animatedComponent"
+        style={
+          Object {
+            "transform": Array [
+              Object {
+                "scale": 1,
+              },
+            ],
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight={16}
+          bbWidth={16}
+          fill="#3366FF"
+          focusable={false}
+          height={16}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            Array [
+              Object {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              Object {
+                "flex": 0,
+                "height": 16,
+                "width": 16,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={16}
+        >
+          <RNSVGGroup
+            fill={4281558783}
+            propList={
+              Array [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGRect
+                  height="24"
+                  opacity={0}
+                  width="24"
+                  x={0}
+                  y={0}
+                />
+                <RNSVGPath
+                  d="M16.62 6.21a1 1 0 0 0-1.41.17l-7 9-3.43-4.18a1 1 0 1 0-1.56 1.25l4.17 5.18a1 1 0 0 0 .78.37 1 1 0 0 0 .83-.38l7.83-10a1 1 0 0 0-.21-1.41z"
+                />
+                <RNSVGPath
+                  d="M21.62 6.21a1 1 0 0 0-1.41.17l-7 9-.61-.75-1.26 1.62 1.1 1.37a1 1 0 0 0 .78.37 1 1 0 0 0 .78-.38l7.83-10a1 1 0 0 0-.21-1.4z"
+                />
+                <RNSVGPath
+                  d="M8.71 13.06L10 11.44l-.2-.24a1 1 0 0 0-1.43-.2 1 1 0 0 0-.15 1.41z"
+                />
+              </RNSVGGroup>
+            </RNSVGGroup>
+          </RNSVGGroup>
+        </RNSVGSvgView>
+      </View>
+      <Text
+        appearance="hint"
+        category="c1"
+        style={
+          Array [
+            Object {
+              "color": "#8F9BB3",
+              "fontFamily": "System",
+              "fontSize": 12,
+              "fontWeight": "400",
+            },
+            Object {
+              "minWidth": 64,
+              "textAlign": "right",
+            },
+          ]
+        }
+      >
+        12:00 PM
+      </Text>
+    </View>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    nativeID="animatedComponent"
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexDirection": "row",
+        "opacity": 1,
+        "paddingHorizontal": 8,
+        "paddingVertical": 12,
+      }
+    }
+  >
+    <Image
+      appearance="default"
+      shape="round"
+      size="medium"
+      source={
+        Object {
+          "testUri": "../../../app/assets/image-profile-3.jpg",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "borderRadius": 20,
+            "height": 40,
+            "marginRight": 10,
+            "width": 40,
+          },
+        ]
+      }
+    />
+    <View
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    >
+      <Text
+        appearance="default"
+        category="p1"
+        style={
+          Array [
+            Object {
+              "color": "#222B45",
+              "fontFamily": "System",
+              "fontSize": 15,
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#222B45",
+                "fontFamily": "System",
+                "fontSize": 13,
+                "fontWeight": "600",
+                "marginHorizontal": 8,
+              },
+              Object {
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        Kari Granleese
+      </Text>
+      <Text
+        appearance="default"
+        category="p1"
+        style={
+          Array [
+            Object {
+              "color": "#222B45",
+              "fontFamily": "System",
+              "fontSize": 15,
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#8F9BB3",
+                "fontFamily": "System",
+                "fontSize": 12,
+                "fontWeight": "400",
+                "marginHorizontal": 8,
+              },
+              Object {
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        Hey! What's going on?
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        collapsable={false}
+        nativeID="animatedComponent"
+        style={
+          Object {
+            "transform": Array [
+              Object {
+                "scale": 1,
+              },
+            ],
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight={16}
+          bbWidth={16}
+          fill="#3366FF"
+          focusable={false}
+          height={16}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            Array [
+              Object {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              Object {
+                "flex": 0,
+                "height": 16,
+                "width": 16,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={16}
+        >
+          <RNSVGGroup
+            fill={4281558783}
+            propList={
+              Array [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGRect
+                  height="24"
+                  opacity={0}
+                  width="24"
+                  x={0}
+                  y={0}
+                />
+                <RNSVGPath
+                  d="M16.62 6.21a1 1 0 0 0-1.41.17l-7 9-3.43-4.18a1 1 0 1 0-1.56 1.25l4.17 5.18a1 1 0 0 0 .78.37 1 1 0 0 0 .83-.38l7.83-10a1 1 0 0 0-.21-1.41z"
+                />
+                <RNSVGPath
+                  d="M21.62 6.21a1 1 0 0 0-1.41.17l-7 9-.61-.75-1.26 1.62 1.1 1.37a1 1 0 0 0 .78.37 1 1 0 0 0 .78-.38l7.83-10a1 1 0 0 0-.21-1.4z"
+                />
+                <RNSVGPath
+                  d="M8.71 13.06L10 11.44l-.2-.24a1 1 0 0 0-1.43-.2 1 1 0 0 0-.15 1.41z"
+                />
+              </RNSVGGroup>
+            </RNSVGGroup>
+          </RNSVGGroup>
+        </RNSVGSvgView>
+      </View>
+      <Text
+        appearance="hint"
+        category="c1"
+        style={
+          Array [
+            Object {
+              "color": "#8F9BB3",
+              "fontFamily": "System",
+              "fontSize": 12,
+              "fontWeight": "400",
+            },
+            Object {
+              "minWidth": 64,
+              "textAlign": "right",
+            },
+          ]
+        }
+      >
+        4:12 PM
+      </Text>
+    </View>
+  </View>
+</View>
+`;
